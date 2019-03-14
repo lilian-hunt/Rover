@@ -1,0 +1,12 @@
+START levels/mine_2.level
+SCAN shade
+MOVE W 2
+MOVE S 1
+SCAN elevation
+MOVE W 1
+MOVE S 1
+SCAN shade
+MOVE E 10
+STATS
+FINISH
+QUIT

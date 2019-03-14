@@ -1,0 +1,11 @@
+START levels/big_level.txt
+SCAN elevation
+MOVE N 3
+SCAN shade
+STATS
+MOVE E 100
+STATS
+SCAN shade
+STATS
+FINISH
+QUIT

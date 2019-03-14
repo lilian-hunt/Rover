@@ -1,0 +1,16 @@
+START levels/cold.txt
+SCAN elevation
+MOVE N 3
+MOVE E 10
+STATS
+SCAN shade
+WAIT 5
+STATS
+MOVE 1000
+MOVE E 1000
+STATS
+SCAN elevation
+WAIT 5
+STATS
+FINISH
+QUIT

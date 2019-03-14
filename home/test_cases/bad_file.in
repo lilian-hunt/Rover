@@ -1,0 +1,4 @@
+START levels/bad_file.txt
+MEN
+HELP
+QUIT

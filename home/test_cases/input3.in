@@ -1,0 +1,17 @@
+START levels/mine_2.level
+SCAN elevation
+MOVE E 2
+MOVE N 1
+STATS
+MOVE E 97
+STATS
+SCAN elevation
+STATS
+SCAN elevation
+MOVE E 2
+STATS
+SCAN elevation
+WAIT 10
+STATS
+FINISH
+QUIT

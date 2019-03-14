@@ -1,0 +1,9 @@
+Commands to test: 
+
+python game.py < input4.in | diff - output4.out
+python game.py < test_cases/input1.in | diff - test_cases/output1.out
+python game.py < test_cases/bad_file.in | diff - test_cases/bad
+python game.py < test_cases/input2.in | diff - test_cases/output2.out
+python game.py < est_tests/input3.in | diff - est_tests/output3.out
+python game.py < test_cases/rover_cor_invalid.in | diff - test_cases/rover_cor_invalid.out
+
