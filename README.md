@@ -27,4 +27,7 @@ COMMANDS
     direction = N S E W
     cycles = number of spaces to move
 - WAIT <cycles> e.g. WAIT 10 
-    ifth
+    if the rover is on a non-shaded tile, this will increase the battery by <cycles>
+- STATS
+- FINISH 
+    ends the game
