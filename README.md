@@ -1,4 +1,5 @@
 # Rover
+The game involves exploring as much of a planet with a planetary rover without running out of power.
 
 The player can enter any of these commands when they launch the program.
 
