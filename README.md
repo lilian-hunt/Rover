@@ -16,6 +16,15 @@ If the level file can be found but the data is not structured properly, then the
 
 • HELP
 This will show the menu items available.
-START <level file> - Starts the game with a provided file.
-QUIT - Quits the game
-HELP - Shows this message
+START <level file> = Starts the game with a provided file.
+QUIT = Quits the game
+HELP = Shows this message
+
+COMMANDS
+- SCAN <type> e.g. SCAN shade
+- SCAN elevation
+- MOVE <direction> <cycles> e.g. MOVE N 15 
+    direction = N S E W
+    cycles = number of spaces to move
+- WAIT <cycles> e.g. WAIT 10 
+    ifth
